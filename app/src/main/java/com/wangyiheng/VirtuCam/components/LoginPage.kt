@@ -46,8 +46,9 @@ import androidx.compose.ui.window.Dialog
 import androidx.compose.ui.window.DialogProperties
 import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.ktx.Firebase
-import com.wangyiheng.VirtuCam.R
+ 
 import com.wangyiheng.VirtuCam.components.DisclaimerDialog
+import com.wangyiheng.vcamsx.R
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

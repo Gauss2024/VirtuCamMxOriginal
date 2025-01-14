@@ -20,7 +20,6 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.ktx.Firebase
-import com.wangyiheng.VirtuCam.components.MainScreen
 import com.wangyiheng.VirtuCam.services.VcamsxForegroundService
 import com.wangyiheng.VirtuCam.ui.theme.VCAMSXTheme
 import kotlinx.coroutines.Dispatchers
@@ -69,7 +68,7 @@ class MainActivity : ComponentActivity() {
                             showLoginScreen = false
                         })
                     } else {
-                        MainScreen()
+                       // MainScreen()
                     }
                 }
             }

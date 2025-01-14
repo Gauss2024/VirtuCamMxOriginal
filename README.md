@@ -1,4 +1,6 @@
-# VirtuCam
+# 这个没有相关的打包设置，修改了
+# VirtuCam，这个是最初的源码，需要调试
+
 
 VirtuCam Original Source Code. WE updated the Source code for @Lab_110(scammer group) but they never paid us for our work and now they use it and charge money for it and moreover blocked us and deleted the chats and banned us from any of there groups, you can create an Issue and we will drop each of the proof, we have every Chat. 
 
